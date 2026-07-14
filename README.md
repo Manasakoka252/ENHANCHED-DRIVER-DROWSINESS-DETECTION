@@ -14,7 +14,7 @@ FEATURES:
 5.Lightweight and easy to run on most systems
 
 
-HOW IT WORKS
+HOW IT WORKS:
 
 1.Captures live video from the webcam.
 
