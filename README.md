@@ -108,7 +108,5 @@ While running, the program displays a window with the webcam feed and a small st
 - Model load errors: if `cnnCat2.h5` fails to load directly, the script includes a fallback architecture in `model.py` and will attempt to load weights into it — check console output for details.
 - Haar cascades missing: confirm the XML files are present in `haar cascade files/`; empty or corrupted XML files will prevent face/eye detection.
 
-## Notes
-- The README intentionally contains no external links.
-- If you want a shorter README variant or additional sections (license, authors, screenshots), tell me which parts to add.
+
 
